@@ -24,12 +24,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ryan S. - AccessDenied404"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Security engineer | Blockchain Developer"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Taurus SA"
+  uri              : "https://rya-sge.github.io/access-denied/"
   email            : "none@example.org" 
 
   # Academic websites
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rya-sge"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "ad403" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ryan-sge"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,7 +71,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "ADCDIII"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -126,13 +126,6 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-
 # Social Sharing
 twitter:
   username               : &twitter
@@ -148,14 +141,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
-
-# Analytics
-analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
-
 
 # Reading Files
 include:
