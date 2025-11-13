@@ -27,10 +27,10 @@ author:
   name             : "Ryan S. - AccessDenied404"
   pronouns         : # example: "she/her"  
   bio              : "Security engineer | Blockchain Developer"
-  location         : "Earth"
+  location         : 
   employer         : "Taurus SA"
   uri              : "https://rya-sge.github.io/access-denied/"
-  email            : "none@example.org" 
+  email            : 
 
   # Academic websites
   academia         : # URL
